@@ -100,6 +100,9 @@ feedback_collector/
 ---
 
 ## Outputs
+
+![Screenshot 2025-06-17 161050](https://github.com/user-attachments/assets/059cab27-640b-4fa0-839e-b85ef148873e)
+![Screenshot 2025-06-17 161148](https://github.com/user-attachments/assets/7e9b170f-decc-4182-af35-17225dd35c72)
 ![Screenshot 2025-06-17 161536](https://github.com/user-attachments/assets/4631b378-880b-4e9a-b8a1-d98b3d85246c)
 
 
