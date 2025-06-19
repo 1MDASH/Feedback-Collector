@@ -99,6 +99,10 @@ feedback_collector/
 
 ---
 
+## Outputs
+![Screenshot 2025-06-17 161536](https://github.com/user-attachments/assets/4631b378-880b-4e9a-b8a1-d98b3d85246c)
+
+
 ## 🤝 Contributing
 
 Pull requests are welcome!  
@@ -119,3 +123,6 @@ If you like this project, please give it a ⭐️ on GitHub!
 ---
 
 Made with ❤️ by a beginner, for beginners!
+
+
+
